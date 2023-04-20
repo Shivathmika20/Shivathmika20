@@ -2,7 +2,7 @@
 <img src="https://media3.giphy.com/media/l0Iy88cWKqBeBN92o/giphy.gif?cid=ecf05e474e41luxcp8cao7h2dymoksrnuunuu5nmgd2p31t8&rid=giphy.gif&ct=g" width=900 height=450>
 <p>
 
-<br><br>
+<br>
 <h1 align="center">Hi, I am Shivathmika <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"></h1> 
 
 
