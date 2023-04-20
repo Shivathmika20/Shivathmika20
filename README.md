@@ -10,7 +10,7 @@
     <img src="https://readme-typing-svg.herokuapp.com?color=E22FE4&width=380&height=45&lines=Exploring+myself;Open-Source+Enthusiast;Exploring;Nice+To+Meet+You+...&center=true">
 </p>
 
-<h4 align="center"> Hi there, I'm Shivathmika and I'm currently pursuing a degree in Computer Science. My primary focus is on web development, but I'm eager to explore other fields as well. ⚡</h6>
+<p align="center"> Hi there, I'm Shivathmika and I'm currently pursuing a degree in Computer Science. My primary focus is on web development, but I'm eager to explore other fields as well. ⚡</p>
 
 <br><br><br>
 
